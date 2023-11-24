@@ -52,7 +52,7 @@ class PetControllerTest {
         String NAME_PET= "Leo";
         int TYPE_ID= 1;
         int OWNER_ID = 1;
-        Date DATE = new SimpleDateFormat("yyyy-MM-dd").parse("2023-11-01");
+        Date DATE = new SimpleDateFormat("yyyy-MM-dd").parse("2000-09-07");
         String DATE_STRING = new SimpleDateFormat("yyyy-MM-dd").format(DATE);
 
 
